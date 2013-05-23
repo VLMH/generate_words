@@ -10,5 +10,5 @@ To run program
 `$ ruby generator.rb`
 
 How-to:
- - Input text in similar format '1-800-456'. Only last digit set ('456') is effective
- - Input '.' to quit
+ - Input text in similar format '1-800-456'. Only last digit set (456) is effective
+ - Input `.` to quit
